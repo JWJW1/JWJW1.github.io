@@ -1,43 +1,43 @@
 const quotes = [
     {
-        quote: "명언1",
-        author: "작가1"
+        quote: "Without music, life would be a mistake.",
+        author: "Friedrich Nietzsche"
     },
     {
-        quote: "명언2",
-        author: "작가2"
+        quote: "We don't know a millionth of one percent about anything.",
+        author: "Thomas A. Edison"
     },
     {
-        quote: "명언3",
-        author: "작가3"
+        quote: "Age is no guarantee of maturity.",
+        author: "Lawana Blackwell"
     },
     {
-        quote: "명언4",
-        author: "작가4"
+        quote: "Believe those who are seeking the truth. Doubt those who find it.",
+        author: "Andre Gide"
     },
     {
-        quote: "명언5",
-        author: "작가5"
+        quote: "He that lives upon hope will die fasting.",
+        author: "Benjamin Franklin"
     },
     {
-        quote: "명언6",
-        author: "작가6"
+        quote: "It is a bad plan that admits of no modification.",
+        author: "Publilius Syrus"
     },
     {
-        quote: "명언7",
-        author: "작가7"
+        quote: "Prejudice is opinion without judgement.",
+        author: "Voltaire"
     },
     {
-        quote: "명언8",
-        author: "작가8"
+        quote: "The superior man is modest in his speech, but excels in his actions.",
+        author: "Confucius"
     },
     {
-        quote: "명언9",
-        author: "작가9"
+        quote: "The merit of an action lies in finishing it to the end.",
+        author: "Genghis Khan"
     },
     {
-        quote: "명언10",
-        author: "작가10"
+        quote: "Only actions give life strength; only moderation gives it a charm.",
+        author: "Jean Paul Richter"
     }
 ];
 const quote = document.querySelector("#quote span:first-child");
